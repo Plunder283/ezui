@@ -42,6 +42,8 @@ elements = [
 
 ezui.simple_menu(elements, banner, "default")
 ```
+## If you want to support this project
+https://www.paypal.com/donate/buttons/manage/TTUPCGUNGSUH8
 
 ## Todo
     - Create a title system ✅
