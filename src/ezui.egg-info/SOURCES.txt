@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/ezui/__init__.py
+src/ezui/ezui.py
+src/ezui.egg-info/PKG-INFO
+src/ezui.egg-info/SOURCES.txt
+src/ezui.egg-info/dependency_links.txt
+src/ezui.egg-info/top_level.txt

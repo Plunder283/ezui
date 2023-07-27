@@ -1,3 +1,12 @@
+# EzUI
+A python module for easily creating a powerful and dynamic user interface in shell
+
+![](https://github.com/Plunder283/ezui/blob/main/readme_assets/ui_exemple.png)
+
+## How to use:
+
+Here is a simple program who use it : (You can find it in the repo)
+```
 import ezui
 import sys
 
@@ -23,6 +32,7 @@ def sub(a, b):
 def exit():
     sys.exit()
 
+# This is the Menu elements
 elements = [
     ("Hello World Function",say_hello),
     ("Additionner", add),
@@ -31,3 +41,8 @@ elements = [
 ]
 
 ezui.simple_menu(elements, banner, "default")
+```
+
+## Todo
+    - Create a title system ✅
+    - Find a way to know if the app is in foreground ❌
