@@ -1,5 +1,5 @@
 # EzUI
-A python module for easily creating a powerful and dynamic user interface in shell
+A python module for easily creating a powerful and dynamic user interface in windows shell
 
 ![](https://github.com/Plunder283/ezui/blob/main/readme_assets/ui_exemple.png)
 
@@ -46,3 +46,4 @@ ezui.simple_menu(elements, banner, "default")
 ## Todo
     - Create a title system ✅
     - Find a way to know if the app is in foreground ❌
+    - Find a way to handle key strokes on Linux ❌
