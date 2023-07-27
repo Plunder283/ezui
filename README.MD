@@ -6,7 +6,7 @@ A python module for easily creating a powerful and dynamic user interface in she
 ## How to use:
 
 Here is a simple program who use it : (You can find it in the repo)
-py```
+```python
 import ezui
 import sys
 
